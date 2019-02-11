@@ -2,6 +2,10 @@ ALPHA VERSION
 Encargo para Elena Diaz de la Cruz como trabajo final de master.
 Se trata, una aplicación que trata de replicar una aplicación MOOC de escritorio.
 
+#Partes interesantes del proyecto
+
+-Almacenamiento de test en BBDD.
+- Implementación de paneles JavaFX en swing.
 
 
 Tiempo desarrollo: 4 días.
