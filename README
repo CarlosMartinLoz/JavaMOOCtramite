@@ -5,6 +5,7 @@ Se trata, una aplicación que trata de replicar una aplicación MOOC de escritor
 #Partes interesantes del proyecto
 
 -Almacenamiento de test en BBDD.
+- Mostrar los resultados de esos test.
 - Implementación de paneles JavaFX en swing.
 
 
